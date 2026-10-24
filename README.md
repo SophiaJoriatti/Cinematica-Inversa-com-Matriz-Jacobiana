@@ -1,0 +1,1 @@
+# Cinematica-Inversa-com-Matriz-Jacobiana
